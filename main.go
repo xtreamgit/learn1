@@ -1,3 +1,5 @@
+// Author: Hector DeJesus
+// May 7, 2019
 package main
 
 import "fmt"
